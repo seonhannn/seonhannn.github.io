@@ -1,7 +1,7 @@
 ---
 ---
 
-@import 'main
+@import 'main_style
 {%- if jekyll.environment == 'production' -%}
   .bundle
 {%- endif -%}
